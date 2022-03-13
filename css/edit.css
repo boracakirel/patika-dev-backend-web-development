@@ -1,0 +1,36 @@
+/********** Background Colour ********/
+body {
+    background-color: #212020;
+    font-family: Consolas;
+    color: #781414;
+}
+/************ Header Attributes **************/
+.header {
+    text-align: center;
+    font-size: 40px;
+
+}
+/*********** Navbar Attributes ***********/
+.first-navbar {
+    position: relative;
+    right: -550px;
+    font-size: 35px;
+}
+.second-navbar {
+    position: relative;
+    right: -800px;
+    font-size: 35px;
+}
+.p {
+    font-size: 20px;
+}
+.ol {
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
+.ul {
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inside;
+}
